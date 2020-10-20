@@ -5,17 +5,7 @@
 ### Category Name 1 
 
 [Mystery Island](https://bandraxgaming.itch.io/mystery-island)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+<img src="Image2.jpg?raw=true"/>
 
 ### Category Name 2
 
