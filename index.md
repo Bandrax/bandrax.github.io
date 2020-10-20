@@ -1,5 +1,5 @@
 ## Portfolio
-
+<img src="images/BandraxGaming.png?raw=true"/>
 ---
 
 ### Games 
