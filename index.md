@@ -1,11 +1,11 @@
 ## Portfolio
-[Itch.io link](https://bandraxgaming.itch.io/)
+[<p style="font-size:20px">Itch.io link](https://bandraxgaming.itch.io/)
 <img src="images/BandraxGaming.png?raw=true"/>
 ---
 
 ### Games 
 
-[Mystery Island](https://bandraxgaming.itch.io/mystery-island)
+[<p style="font-size:20px">Mystery Island](https://bandraxgaming.itch.io/mystery-island)
 <img src="images/Image2.png?raw=true"/>
 
 ---
