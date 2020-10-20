@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Mystery Island](https://bandraxgaming.itch.io/mystery-island)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
