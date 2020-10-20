@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Mystery Island](https://bandraxgaming.itch.io/mystery-island)
-<img src="Image2.jpg?raw=true"/>
+<img src="images/Image2.jpg?raw=true"/>
 
 ### Category Name 2
 
