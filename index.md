@@ -1,13 +1,13 @@
 ## Portfolio
-[<p style="font-size:20px">Itch.io link](https://bandraxgaming.itch.io/)
+[Itch.io link](https://bandraxgaming.itch.io/)
 <img src="images/BandraxGaming.png?raw=true"/>
 ---
 
 ### Games 
 
-[<p style="font-size:20px">Mystery Island](https://bandraxgaming.itch.io/mystery-island)
+[Mystery Island](https://bandraxgaming.itch.io/mystery-island)
 <img src="images/Image2.png?raw=true"/>
 
 ---
-<p style="font-size:20px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
